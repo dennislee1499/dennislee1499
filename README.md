@@ -1,29 +1,21 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="200"/>       
+# Hey, I'm Dennis! 🧑🏻‍💻
+
+<img align="left" src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" height="300"/>
+
+<div>
+
+## About Me:
+💆🏻‍♂️ Software Engineer </br>
+🌱 I’m currently learning Python/Machine Learning </br>
+🔭 I’m currently working on [Chonky](https://chonky-web-service.onrender.com/) </br>
+💬 Ask me about [TuneUp](https://tuneup-twco.onrender.com/) </br>
+⚡ Interests: Basketball, Gaming, Travelling, Hiking, Deep Talks!
+
 </div>
 
-<div id="badge" align="center">
-  <a href="https://www.linkedin.com/in/dennislee-/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <h1>
-  Hey there, I'm Dennis!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
 
----
-
-### [About Me]():
-
-- 💆🏻‍♂️ Software Engineer
-- 🔭 I’m currently working on [Chonky](https://chonky-web-service.onrender.com/)
-- 🌱 I’m currently learning Python/Machine Learning
-- 💬 Ask me about [TuneUp](https://tuneup-twco.onrender.com/)
-- ⚡ Interests: Basketball, Gaming, Travelling, Hiking, Deep Talks!
-
----
+</br>
 
 ### [Languages and Tools]():
 
