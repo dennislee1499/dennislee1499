@@ -1,13 +1,18 @@
 
 # Hey, I'm Dennis! 🧑🏻‍💻
 
-<img align="left" src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" height="300"/>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" align="left" height="300"/>
+
+</td>
+<td valign="top" width="50%">
 
 <a href="https://www.linkedin.com/in/dennislee-/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
-<div>
 
 ## About Me:
 💆🏻‍♂️ Software Engineer </br>
@@ -41,6 +46,11 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
