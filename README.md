@@ -1,14 +1,14 @@
 
 # Hey, I'm Dennis! 🧑🏻‍💻
 
-<table style="table-layout: fixed; border-collapse: collapse;">
+<table style="table-layout: fixed; border-collapse: collapse; width: 100%; border: none;">
 <tr>
-<td valign="top" width="30%" style="padding-right: 15px; border: none;">
+<td valign="top" style="padding-right: 15px; border: none; min-width: 300px;">
 
-<img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" align="left" height="300"/>
+<img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" align="left" style="width:100%; max-width: 300px; height: auto;">
 
 </td>
-<td valign="top" width="70%" style="border: none;">
+<td valign="top" style="border: none;">  
 
 <a href="https://www.linkedin.com/in/dennislee-/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
