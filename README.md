@@ -1,18 +1,16 @@
 
 # Hey, I'm Dennis! 🧑🏻‍💻
 
-<table>
+<table style="table-layout: fixed; border-collapse: collapse;">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="30%" style="padding-right: 15px; border: none;">
 
+<!-- Your image here -->
 <img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" align="left" height="300"/>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="70%" style="border: none;">
 
-<a href="https://www.linkedin.com/in/dennislee-/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
 
 ## About Me:
 💆🏻‍♂️ Software Engineer </br>
