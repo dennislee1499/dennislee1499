@@ -17,7 +17,7 @@
 ## About Me:
 💆🏻‍♂️ Software Engineer </br>
 🌱 I’m currently learning Python </br>
-🔭 I’m currently working on [Chonky](https://chonky-web-service.onrender.com/) </br>
+🔭 I’m currently working on [Chonky](https://chonky-web-service.onrender.com/) && ConnectSpace </br>
 💬 Ask me about [TuneUp](https://tuneup-twco.onrender.com/) </br>
 ⚡ Interests: Basketball, Gaming, Travelling, Hiking!
 
